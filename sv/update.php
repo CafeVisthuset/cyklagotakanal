@@ -400,16 +400,6 @@ if (isset($_POST['username'])) {
         
     }
     
-    
-    
-    
-    
-
-    
-		
-
-
-
 	} else {
 		echo "Inloggning misslyckades!";
 		exit();
@@ -418,13 +408,5 @@ if (isset($_POST['username'])) {
 	
 ?>
 
-
-
 </body>
 </html>
-
-
-
-
-
-
