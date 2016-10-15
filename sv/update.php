@@ -1,6 +1,6 @@
 <?php	
 if(!isset($_POST['update'])xor($_POST['username'])){
-    header("Location:sv/login.php");
+    header("Location:login.php");
 }
     if (isset($_POST['update'])) {
         $posted_glob_value = array();
