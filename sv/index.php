@@ -5,7 +5,7 @@
     minimum-scale=1.0, maximum-scale=1.0">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Göta kanal är Sveriges största byggnadsverk. Cykla sida vid sida med båtarna som glider sakta fram över sveriges blå band. Ät gott på restauranger och caféer längs med kanalen."> 
+    <meta name="description" content="Göta kanal är Sveriges största byggnadsverk. Cykla sida vid sida med båtarna som glider sakta fram över sveriges blå band. Ät gott på restauranger och caféer längs med kanalen.">
     <meta name="keyword" content="Göta kanal, cykelpaket, cykelsemester, hyrcykel, cykla">
 
         <link rel="stylesheet" href="/CSS/pages.css" />
@@ -26,7 +26,7 @@
     </head>
 <body>
 
-<?php 
+<?php
     include ("header.php");
     ?>
 
@@ -37,13 +37,13 @@
 
 <div class="topiccontainer" style=" margin-top: 70px;">
      <div id="slideshow">
-      <div class="topic">       
+      <div class="topic">
    <img src="../Images/Diana.jpg" alt="Diana i Töreboda" class="logga" >
    		</div>
         <div class="topic">
-     <img src="../Images/logotyp.png" alt="Cykla Göta kanal" class="logga" >         
+     <img src="../Images/logotyp.png" alt="Cykla Göta kanal" class="logga" >
  	</div>
-        <div class="topic"> 
+        <div class="topic">
       <img src="../Images/Top1.jpg" alt="Cyklar vid kanalen" class="logga" >
         </div>
         </div>
@@ -51,48 +51,51 @@
 </div>
 
     <div class="topiccontainer">
-    
+
     <a href="/sv/cyklar">
-     
-      <div class="topic" id="cykeltopic">       
-   
+
+      <div class="topic" id="cykeltopic">
+
     <h2>Hyr cykel</h2>
-    <p>Här kan du boka din cykel om du vill planera din resa vid Göta kanal på egen hand. 
+    <p>
+      Hej hej!
+    </p>
+    <p>Här kan du boka din cykel om du vill planera din resa vid Göta kanal på egen hand.
         Läs mer om våra cyklar och reservera här!</p>
     <img src="../Images/Cykelrad1.jpg" class="logga" alt="Cyklar vid Göta kanal" >
-   
+
 		</div>
-		
+
 		</a>
-		
+
  <a href="/sv/paket">
         <div class="topic" id="pakettopic">
-       
+
             <h2>Boka paket</h2>
-            <p>Vi har samlat de bästa upplevelserna och de viktigaste sevärdigheterna vid Göta kanal. 
+            <p>Vi har samlat de bästa upplevelserna och de viktigaste sevärdigheterna vid Göta kanal.
         Njut av ett färdigt paket med det bästa Göta kanal har att erbjuda!</p>
                     <img src="../Images/Juno_paket2.jpg" class="logga" alt="Juno vid Göta kanal" >
-                    
+
  	</div>
 	</a>
 
 
  <a href="/sv/karta">
         <div class="topic" id="besoktopic">
-        
-        
+
+
            <h2>Besökskarta</h2>
-            <p>För dig som är nyfiken och vill veta mer om Göta kanal har vi samlat den viktigaste informationen. 
+            <p>För dig som är nyfiken och vill veta mer om Göta kanal har vi samlat den viktigaste informationen.
         Läs mer om platserna och historien vid Göta kanal!</p>
       <img src="../Images/karta.png" class="logga" alt="Besökskarta över Göta kanal" >
-      
+
         </div>
 </a>
 
 </div>
 
-        
-<?php 
+
+<?php
     include ("footer.php")
 ?>
 
@@ -103,7 +106,7 @@
 </div>
 </div>
 
-<?php 
+<?php
     include ("kampanj.php");
     ?>
 
