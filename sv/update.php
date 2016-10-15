@@ -1,4 +1,7 @@
 <?php	
+if(!isset($_POST['update'])xor($_POST['username'])){
+    header("Location:sv/login.php");
+}
     if (isset($_POST['update'])) {
         $posted_glob_value = array();
         for ($a = 1; $a <= 10; $a++){
